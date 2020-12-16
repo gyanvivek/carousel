@@ -1,0 +1,4 @@
+.Carousel::-webkit-scrollbar {
+	display: none;
+	background: transparent;
+}
